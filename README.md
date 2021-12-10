@@ -1,5 +1,11 @@
 
 # Course info page of DAT550 (Data Mining and Deep Learning, Spring 2022)
+
+Welcome to DAT550. The course is all setup we will use this GitHub repository for all the updates https://github.com/dat550-2022/course-info
+Carefully read the course organization, schedule and register in autograder (see the above link for instructions).
+
+
+
 # Overview
 - [Course Structure](#Structure)
 - [Labs](#Labs)
@@ -7,6 +13,7 @@
 
 
 # Structure
+
 - Lectures:
    - 
    - 
