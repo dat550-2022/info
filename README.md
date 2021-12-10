@@ -92,7 +92,7 @@ Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder)
 4. You will then be invited to the course organization on GitHub and two separate repositories.
    You will need to navigate to each of these links and accept these invitations:
 
-   - Navigate to the course organization [dat550-2021](https://github.com/dat550-2022) accept the invitation.
+   - Navigate to the course organization [dat550-2022](https://github.com/dat550-2022) accept the invitation.
    - Navigate to the [assignments](https://github.com/dat550-2022/assignments) repository and accept the invitation.
    - Navigate to your private <https://github.com/dat550-2022/username-labs> repository and accept the invitation. Remember to replace `username` in this link with your own GitHub `username`.
 
