@@ -29,7 +29,7 @@ In the following, you are expected to run commands from a terminal environment.
    cd $HOME/dat550-2021
    git clone git@github.com:dat550-2021/username-labs assignments
    cd assignments
-   git remote add course-assignments git@github.com:dat550-2021/assignments
+   git remote add course-assignments git@github.com:dat550-2022/assignments
    git pull course-assignments master
    ```
 
@@ -37,11 +37,11 @@ In the following, you are expected to run commands from a terminal environment.
    (These steps will require that you type your GitHub password every time you access your GitHub repository.)
 
    ```console
-   mkdir $HOME/dat550-2021
-   cd $HOME/dat550-2021
-   git clone https://github.com/dat550-2021/username-labs assignments
+   mkdir $HOME/dat550-2022
+   cd $HOME/dat550-2022
+   git clone https://github.com/dat550-2022/username-labs assignments
    cd assignments
-   git remote add course-assignments https://github.com/dat550-2021/assignments
+   git remote add course-assignments https://github.com/dat550-2022/assignments
    git pull course-assignments master
    ```
 
@@ -135,7 +135,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
 ## Update Local Working Copy from Course Assignments
 
 1. As time goes by the teaching staff may publish updates to the
-   course [assignments](https://github.com/dat550-2021/assignments) repo,
+   course [assignments](https://github.com/dat550-2022/assignments) repo,
    e.g. new or updated lab assignments.
    First, check that your local working copy is clean using `git status`, which
    should instruct you to either commit your local changes or to restore any files
