@@ -1,8 +1,7 @@
 
 # Course info page of DAT550 (Data Mining and Deep Learning, Spring 2022)
 
-*** Welcome to DAT550. The course is all setup we will use this GitHub repository for all the updates https://github.com/dat550-2022/course-info
-Carefully read the course Structure, schedule and register in autograder (see the above link for instructions). ***
+*** Welcome to DAT550. ***
 
 
 
@@ -29,21 +28,6 @@ Carefully read the course Structure, schedule and register in autograder (see th
    - 60% of the final grade is based on a written home exam
 
 # Labs
-
-## Autograder
-
-This course uses Autograder, a tool developed at the University of Stavanger
-for students and teaching staff to manage the submission and validation of
-lab assignments. All lab submissions from students are handled using Git,
-a source code management system, and GitHub, a web-based hosting service for
-Git source repositories. Thus, basic knowledge of these tools are necessary.
-
-Students push their updated lab submissions to GitHub. Every lab submission is
-then processed by a custom continuous integration tool. This tool will run
-several test cases on the submitted code. Autograder generates feedback that
-let the students verify if their submission implements the required functionality.
-This feedback is available through a web interface. The feedback from the
-Autograder system can be used by students to improve their submissions.
 
 ## Grading and Collaboration Policy
 
@@ -72,44 +56,6 @@ GitHub is a web-based hosting service for software development projects that use
 An introduction to Git and GitHub is available in [this video](http://youtu.be/U8GBXvdmHT4).
 
 You need to sign up for a GitHub account to get access to the needed course material.
-
-## Autograder Registration
-
-Follow the steps below to register and sign up for the course on Autograder.
-Here are two short videos recorded by Prof. Hein Meling (inventor of Autograder) describing these steps in the context of a different course DAT320 (same steps should work with DAT550): [Part 1](https://youtu.be/3KJm4ABvTAo) and [Part 2](https://youtu.be/kMyH_-8xMGc).
-
-1. Go to [GitHub](http://github.com) and register.
-   A GitHub account is required to sign in to Autograder.
-   You can skip this step if you already have an account.
-
-2. Click the "Sign in with GitHub" button in [Autograder](http://uis.itest.run) to register.
-   You will then be taken to GitHub's website.
-
-3. Approve that our Autograder application may have permission to access to the requested parts of your account.
-   It is possible to make a separate GitHub account for only this (and other) courses if you do not want Autograder to access your personal one with the requested permissions.
-
-## Signing up for the Course on Autograder
-
-1. Click the Plus (+) menu and select “Join course”. Available courses will be listed.
-
-2. Find the course and click Enroll.
-
-3. Wait for the teaching staff to confirm your Autograder registration.
-
-4. You will then be invited to the course organization on GitHub and two separate repositories.
-   You will need to navigate to each of these links and accept these invitations:
-
-   - Navigate to the course organization [dat550-2022](https://github.com/dat550-2022) accept the invitation.
-   - Navigate to the [assignments](https://github.com/dat550-2022/assignments) repository and accept the invitation.
-   - Navigate to your private <https://github.com/dat550-2022/username-labs> repository and accept the invitation. Remember to replace `username` in this link with your own GitHub `username`.
-
-   Several invitation emails will also be sent to the email address associated with your GitHub account.
-   However, emails from GitHub can sometimes take a while to arrive.
-
-5. Once you have accepted the invitations, you will get your own repository under `dat550-2022`, which is the course's organization on GitHub.
-
-## Submitting the assignment once it is working
-The procedure used to submit your lab assignments is explained in the [lab submission process](lab-submission.md).
 
 ## Group Signup on Autograder
 
@@ -142,4 +88,13 @@ Projects will be done in groups. So this step is only needed once you are ready 
  
 # Schedule
 
-(Lab submission deadlines are marked with **bold**.)
+W	Date	Topic	Resources	Travels / Remarks
+1	4/1	Introduction		
+	6/1	Data processing		
+	6/1	Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn	hands-on-1
+
+2	11/1	Data sampling, exploration, visualization	 	
+	13/1	Classification (Decision Trees), 		
+	13/1	Get started with Data preprocessing, 	hands-on-2
+
+
