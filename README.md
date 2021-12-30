@@ -57,7 +57,7 @@ An introduction to Git and GitHub is available in [this video](http://youtu.be/U
 
 You need to sign up for a GitHub account to get access to the needed course material.
 
-## Group Signup on Autograder
+## Group Signup
 
 Projects will be done in groups. So this step is only needed once you are ready to work on your project.
 
@@ -88,13 +88,6 @@ Projects will be done in groups. So this step is only needed once you are ready 
  
 # Schedule
 
-W	Date	Topic	Resources	Travels / Remarks
-1	4/1	Introduction		
-	6/1	Data processing		
-	6/1	Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn	hands-on-1
 
-2	11/1	Data sampling, exploration, visualization	 	
-	13/1	Classification (Decision Trees), 		
-	13/1	Get started with Data preprocessing, 	hands-on-2
 
 
