@@ -12,17 +12,8 @@
 
 
 # Structure
-
-- Lectures:
-   - 
-   - 
-   - 
-   - 
-   - 
 - Labs:
-   - 
-   - 
-   - 3 ungraded (pass/fail) mandatory assignments for qualification to final exam
+     - 3 ungraded (pass/fail) mandatory assignments for qualification to final exam
 - Project:
    - 40% of the final grade is assigned to the group project (working code + written report + presentation)
    - 60% of the final grade is based on a written home exam
@@ -83,11 +74,6 @@ Projects will be done in groups. So this step is only needed once you are ready 
 6. Repeat the above step for the other group members.
 
 7. Click the “Create” button.
-
-
- 
-# Schedule
-
 
 
 
